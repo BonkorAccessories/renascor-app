@@ -22,7 +22,7 @@
   <tr>
     <td align="center"><img src="screenshots/7-programme.png" alt="Mon programme : légende des couleurs, défi prioritaire et planning de 30 jours où chaque jour a la couleur et l'initiale de son défi" width="240"><br><b>Mon programme</b></td>
     <td align="center"><img src="screenshots/8-creer-programme.png" alt="Création du programme : choix du défi prioritaire et semaine type en couleurs" width="240"><br><b>Créer son programme</b></td>
-    <td></td>
+    <td align="center"><img src="screenshots/9-regles.png" alt="Carte Mes règles : bouton Début de mes règles, prochaines règles et ovulation prévues, effet des règles sur le poids" width="240"><br><b>Mes règles</b></td>
   </tr>
 </table>
 
