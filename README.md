@@ -75,6 +75,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| 1.13.1 | 22 nov. 2026 | Voix du coach corrigées : plus de sons en trop, et les noms d'exercices anglais (Jumping jacks, Squat, Plank…) prononcés comme dans chaque langue |
 | **1.13** | 22 nov. 2026 | Voix du coach enregistrées, plus naturelles (femme ou homme, 9 langues, marchent hors connexion après la 1re écoute) ; 5 styles complets au choix ; date de naissance en colonnes qui défilent |
 | 1.12 | 22 nov. 2026 | Touche un jour du calendrier : séances (durée, calories, ressenti), poids, règles et total de la semaine, avec suppression d'une séance ; jours de règles marqués dans le calendrier ; calories calculées selon ton poids ; note « ce sont des estimations » ; bleu et rouge vifs pour le programme ; jour actuel entouré en noir ou blanc |
 | 1.11 | 22 nov. 2026 | Date de naissance au lieu de l'âge ; carte **Mes règles** pour les femmes : début et fin, prochaines règles et ovulation prévues dès la 1re date (28 jours puis ta moyenne), effet sur le poids |
