@@ -24,6 +24,11 @@
     <td align="center"><img src="screenshots/8-creer-programme.png" alt="Création du programme : choix du défi prioritaire et semaine type en couleurs" width="240"><br><b>Créer son programme</b></td>
     <td align="center"><img src="screenshots/9-regles.png" alt="Carte Mes règles : bouton Début de mes règles, prochaines règles et ovulation prévues, effet des règles sur le poids" width="240"><br><b>Mes règles</b></td>
   </tr>
+  <tr>
+    <td align="center"><img src="screenshots/10-naissance.png" alt="Mes infos : date de naissance choisie en faisant défiler 3 colonnes (jour, mois, année), sexe et taille" width="240"><br><b>Date de naissance</b></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 *Captures réalisées avec des données d'exemple.*
@@ -75,6 +80,7 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
+| 1.13.3 | 22 nov. 2026 | Captures refaites (dont la date de naissance en colonnes) ; texte « Mes infos » mis à jour |
 | 1.13.2 | 22 nov. 2026 | Les téléphones rechargent les voix corrigées au lieu de garder les anciennes en mémoire |
 | 1.13.1 | 22 nov. 2026 | Voix du coach corrigées : plus de sons en trop, et les noms d'exercices anglais (Jumping jacks, Squat, Plank…) prononcés comme dans chaque langue |
 | **1.13** | 22 nov. 2026 | Voix du coach enregistrées, plus naturelles (femme ou homme, 9 langues, marchent hors connexion après la 1re écoute) ; 5 styles complets au choix ; date de naissance en colonnes qui défilent |
