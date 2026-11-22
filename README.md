@@ -35,8 +35,8 @@
 | Onglet | Description |
 |---|---|
 | 🔥 **Défis** | **Mon programme** en haut (plusieurs défis dans un même planning en couleurs), tes séances perso, puis les 9 défis seuls (Perte de poids, Musculation, Prise de masse, Abdos, Fessiers, Corps entier, Jambes, Bras, Dos), chacun en 3 niveaux. Grille des 30 jours avec les jours faits, les jours de repos et le jour à faire. |
-| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC. |
-| 🏋️ **Sport** | Ton objectif (modifiable à tout moment), ton matériel, la durée du repos, la voix et les bips pendant la séance, le rappel quotidien dans ton agenda et tes infos (âge, sexe, taille). |
+| 📊 **Progression** | Jours d'affilée, nombre de séances, minutes et calories estimées, calendrier du mois avec un point de couleur par défi, suivi du poids avec sa courbe et ton IMC, et pour les femmes la carte **Mes règles** (début et fin, prochaines règles, ovulation, effet sur le poids). |
+| 🏋️ **Sport** | Ton objectif (modifiable à tout moment), ton matériel, la durée du repos, la voix et les bips pendant la séance, le rappel quotidien dans ton agenda et tes infos (date de naissance, sexe, taille). |
 | ⚙️ **Réglages** | Les réglages de l'app : langue, thème (auto, clair ou sombre), sauvegarde et restauration de tes données, numéro de version tout en bas. |
 
 ---
@@ -75,7 +75,8 @@
 
 | Version | Date | Nouveautés |
 |---|---|---|
-| **1.10** | 18 nov. 2026 | Nouvel onglet **Sport** (objectif, matériel, séance, rappel, mes infos) ; **Réglages** ne garde que les réglages de l'app |
+| **1.11** | 22 nov. 2026 | Date de naissance au lieu de l'âge ; carte **Mes règles** pour les femmes : début et fin, prochaines règles et ovulation prévues dès la 1re date (28 jours puis ta moyenne), effet sur le poids |
+| 1.10 | 18 nov. 2026 | Nouvel onglet **Sport** (objectif, matériel, séance, rappel, mes infos) ; **Réglages** ne garde que les réglages de l'app |
 | **1.9** | 18 nov. 2026 | Écran de démarrage animé : le coureur du logo arrive en courant, les lettres de RENASCOR apparaissent une par une (on peut le passer d'un toucher) |
 | 1.8.1 | 18 nov. 2026 | Nouveau logo de l'app (icône sur l'écran d'accueil et dans le navigateur) |
 | **1.8** | 18 nov. 2026 | Objectif Prise de masse et son défi, question sur ton matériel (6 exercices avec haltères, corde, tapis ou vélo), 2 à 6 jours de sport par semaine avec un conseil selon ton objectif |
